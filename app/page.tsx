@@ -198,7 +198,7 @@ export default function Page() {
             Hacko World!
           </h1>
           <p className="text-center text-gray-400 text-sm">
-            AI chat with stolen Google Gemini API access from GDC
+            AI chat with stolen Google Gemini API access from Google Developer Groups on Campus TUP Manila
           </p>
         </div>
         <button
