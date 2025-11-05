@@ -195,10 +195,10 @@ export default function Page() {
         <div className="w-8"></div>
         <div className="text-center">
           <h1 className="text-2xl font-bold bg-linear-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-            Next.js AI Chat
+            Hacko World!
           </h1>
           <p className="text-center text-gray-400 text-sm">
-            Streaming with Vercel API Routes
+            AI chat with stolen Google Gemini API access from GDC
           </p>
         </div>
         <button
